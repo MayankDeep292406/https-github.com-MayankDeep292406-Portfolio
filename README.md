@@ -40,7 +40,7 @@ A responsive car rental web application built using React and Tailwind CSS.
 - Clean component structure
 
 🔗 Live Demo: https://your-demo-link.com  
-📂 GitHub Repo: https://github.com/yourusername/project-link  
+📂 GitHub Repo:   https-github.com-MayankDeep292406-Portfolio
 
 ---
 
