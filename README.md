@@ -2,9 +2,9 @@
 # 👋 Hi, I'm Mayank Deep
 
 🚀 Frontend Developer | React.js Enthusiast | UI/UX Focused  
-📍 Jamshedpur, India  
-📧 your-email@example.com  
-🌐 Portfolio: https://your-portfolio-link.com  
+📍 Aurangabad , Bihar, India  
+📧 mk0958685@gmail.com  
+🌐 Portfolio: http://127.0.0.1:5500/my-portfolio/index.html 
 
 ---
 
@@ -12,6 +12,8 @@
 
 I am a passionate frontend developer who loves building modern, responsive, and user-friendly web applications.  
 I specialize in React.js and enjoy turning ideas into real-world digital experiences.
+My projects include an eCommerce Furniture Shop and a Car Rental System,where I implemented modern UI design, animations, and interactive features.
+I focus on writing clean code and creating visually appealing websites.
 
 ---
 
@@ -51,7 +53,7 @@ Modern healthcare landing page with optimized layout and responsive design.
 - Clean UI design
 
 🔗 Live Demo: https://your-demo-link.com  
-📂 GitHub Repo: https://github.com/yourusername/project-link  
+📂 GitHub Repo: https://github.com/MayankDeep292406/Portfo9lio  
 
 ---
 
@@ -64,8 +66,8 @@ Modern healthcare landing page with optimized layout and responsive design.
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 🐙 GitHub: https://github.com/yourusername
-- 📧 Email: your-email@example.com
+- 🐙 GitHub: https://github.com/MayankDeep292406
+- 📧 Email: mk0958685@gmail.com
 
 ---
 
